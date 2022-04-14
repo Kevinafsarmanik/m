@@ -12,7 +12,7 @@ let handler = async (m, { conn, text }) => {
 ╭════════════════
 ║╭──❉ *𝐒𝐎𝐒𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀* ❉───
 ║│➸ *No.Owner* : wa.me/6283131214121
-║│➸ *No.Bot* : wa.me/6283131214121
+║│➸ *No.Bot* : wa.me/6287821594214
 ║│➸ *Instagram* : https://www.instagram.com/Kevinafsar_
 ║│➸ *Gmail* : Kevinaafsar@gmail.com
 ║│➸ *Github* : - 
